@@ -2,7 +2,7 @@ package egit.demo;
 
 public class main {
 
-	public static main( String[] arg) 
+	public main(String[] arg) 
 	{
 		// TODO Auto-generated method stub
 		System.out.println("Lets Do Something Using GIT");
@@ -11,6 +11,7 @@ public class main {
 		System.out.println("Lets  ");
 		System.out.println("Hello");
 		System.out.println("sdjkghklsdf");
+		System.out.println("stayaway");
 	}
 
 }
